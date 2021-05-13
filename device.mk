@@ -228,6 +228,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fstab.qcom_ramdisk \
     fstab.qcom \
+    init.davinci.perf.rc \
     init.davinci.rc \
     init.qcom.rc \
     init.qcom.usb.rc \
